@@ -1,0 +1,8 @@
+Создатель: Сташишин Илья
+Created by: Stashishin Illya
+ 
+Работает SMS SpAmMer на...
+Ubuntu
+Kali linux
+Termux
+Linux Mint
